@@ -1,4 +1,4 @@
-# pfe_ft_nmap
+# ft_nmap_cayman
 
 School project scaffold inspired by ft_nmap.
 
